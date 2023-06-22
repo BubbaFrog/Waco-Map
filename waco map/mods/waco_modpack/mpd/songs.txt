@@ -1,0 +1,5 @@
+#File Name		Time	Gain	Title
+janetreno	0:26	0.7	Janet Reno 
+burn_mf_ffdp		3:37	1.0	Burn Mother Fucker Five Finger Death Punch
+madmaninwaco		3:25	1.0	Mad Man Living In Waco
+
